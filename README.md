@@ -1,6 +1,6 @@
 # Olá, sou Brrn91 👋
 
-Futuro **Desenvolvedor Web** & Estudante de **UX/UI Design** apaixonado por criar experiências digitais intuitivas.
+Futuro **Desenvolvedor Web** & **UX/UI Design** apaixonado por criar experiências digitais intuitivas.
 
 ---
 
