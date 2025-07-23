@@ -1,4 +1,4 @@
-# Olá, sou Brrn91 👋
+# Olá, sou o Lucas Bruno (Brrn91) 👋
 
 Futuro **Desenvolvedor Web** & **UX/UI Design** apaixonado por criar experiências digitais intuitivas.
 
@@ -6,7 +6,7 @@ Futuro **Desenvolvedor Web** & **UX/UI Design** apaixonado por criar experiênci
 
 ## 👨‍💻 Sobre Mim
 - 🎓 Atualmente estudando Desenvolvimento Web e UX/UI Design.
-- 📚 Sempre aprendendo e experimentando novas ferramentas, tendências e melhores práticas em design e desenvolvimento.
+- 📚 Nesse reposotório, você verá minhas práticas desde o inicio dos meus estudos.
 
 ---
 
