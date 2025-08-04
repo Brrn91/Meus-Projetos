@@ -1,6 +1,9 @@
 @font-face {
-  font-family: 'MyCustomFont';
-  src: url(Mutiara_Calligraphy_Font.ttf) format('truetype');
+  font-family: 'teste';
+  src: url(fontes/font01.otf) format('opentype'),
+       url(fontes/font01.ttf) format('truetype');
+       font-weight: normal;
+       font-style: normal;
 }
 
 body {
@@ -8,6 +11,7 @@ body {
 }
 
 h1 {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: teste, Arial, Helvetica, sans-serif;
   font-size: 3em;
+  font-weight: normal;
 }
