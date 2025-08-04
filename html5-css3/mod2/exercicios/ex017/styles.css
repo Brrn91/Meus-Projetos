@@ -5,7 +5,7 @@ body {
 /*Medidas absolutas:
 cm, mm, in, px, pt, pc
 Medidas relativas:
-em, ex, rem, vw, vh, vmin, vmax*/
+em, ex, rem, vw, vh, %*/
 
 h1, h2 {
   font-family: 'Times New Roman', Times, serif ;
