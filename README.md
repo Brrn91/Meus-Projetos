@@ -36,9 +36,9 @@ This repository is dedicated to the **exercises, challenges, and practical proje
 
 ---
 
-## 🧠 Em aprendizado contínuo...
+## 🧠 Em aprendizado contínuo... | In a constant learning process...
 
-*Este repositório será atualizado conforme avanço nos estudos. Todo feedback, sugestão ou dica será muito bem-vindo!*
+*This repository will be updated as I progress in my studies. Any feedback, suggestions, or tips are very welcome!*
 
 ---
 
