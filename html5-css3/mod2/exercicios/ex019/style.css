@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
 /*
-Em HTML é  ID = Em CSS é #
-Em HTML é  Class = Em CSS é .
+Em HTML é  ID = Em CSS é # (só pode um elemeto por página)
+Em HTML é  Class = Em CSS é . (pode vários elementos por página)
 */
 
 body {
@@ -22,4 +22,20 @@ h1#principal {
 
 h2 {
 color:#3c805e;
+}
+
+.basico {
+ color:#3c805e;
+}
+
+.intermediario {
+ color:#80793c;
+}
+
+.avancado {
+ color:#803c3c;
+}
+
+.destaque {
+  background-color: #c5c56070;
 }
