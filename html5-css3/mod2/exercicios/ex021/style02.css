@@ -34,7 +34,8 @@ main {
  background-color: white;
  padding: 10px;
  margin: 10px;
- border-radius: 10px 40px;
+ border-radius: 10px 0px;
+ box-shadow: 4px 4px 9px 0px rgba(0, 0, 0, 0.384);
 }
 
 article {
@@ -52,4 +53,12 @@ footer {
   text-align: center;
   padding: 1px;
   margin: 0px;
+}
+
+div#bola {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  margin: 10px;
+  border-radius: 50%;
 }
