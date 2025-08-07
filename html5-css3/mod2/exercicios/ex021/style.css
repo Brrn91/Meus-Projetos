@@ -1,7 +1,8 @@
 @charset "UTF-8";
 
-h1 {
+h1 { /*box-level*/;
   background-color: lightgray;
+  
   height: 300px;
   width: 300px;
 
@@ -14,7 +15,7 @@ h1 {
   outline: 5px dashed darkred;
 }
 
-a {
+a { /*inline-level*/
    border: 10px solid red;
   
    padding: 10px;
