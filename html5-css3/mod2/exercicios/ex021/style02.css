@@ -54,11 +54,3 @@ footer {
   padding: 1px;
   margin: 0px;
 }
-
-div#bola {
-  width: 100px;
-  height: 100px;
-  background-color: white;
-  margin: 10px;
-  border-radius: 50%;
-}
