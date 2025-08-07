@@ -14,8 +14,9 @@ header {
 }
 
 nav {
-  background-color: rgb(92, 92, 92);
+  background-color: rgb(102, 102, 102);
   padding: 3px;
+  box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.315);
 }
 
 nav > a {
