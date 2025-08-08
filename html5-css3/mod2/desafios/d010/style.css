@@ -19,14 +19,33 @@ header {
   padding: 20px;
 }
 
+#tema {
+  text-align: center;
+  color: white;
+  margin-top: -15px;
+  margin-bottom: 15px;
+  padding: 5px 10px 10px 10px;
+}
+
 section {
   background-color: white;
+}
+
+#conteudo {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
 }
 
 h1 {
 color: white;
 font-family: "Bebas Neue", sans-serif;
 text-align: center;
+font-size: 50px;
+}
+
+h2 {
+  margin-top: auto;
 }
 
 h2, h3 {
@@ -39,11 +58,3 @@ a {
   color: white;
   box-shadow: ;
   }
-
-#tema {
-  text-align: center;
-  color: white;
-  margin-top: -15px;
-  margin-bottom: 15px;
-  padding: 10px 10px 10px 10px;
-}
