@@ -95,8 +95,11 @@ main h1 {
 }
 
 main h2 {
-  color: var(--cor5);
+  color: var(--cor4);
   font-family: var(--fonte-android);
+  font-size: 1.3em;
+  background-image: linear-gradient(to right, var(--cor1), transparent);
+  text-indent: 8px;
 }
 
 main p {
@@ -105,6 +108,23 @@ main p {
   text-indent: 30px;
   font-size: 1em;
   line-height: 2em;
+}
+
+main strong {
+  color: var(--cor4);
+  font-weight: bolder;
+}
+
+main a {
+  text-decoration: none;
+  font-weight: bold;
+  color:var(--cor5);
+  padding: 2px 6px;
+}
+
+main a:hover {
+text-decoration: underline;
+color: var(--cor4);
 }
 
 main img {
