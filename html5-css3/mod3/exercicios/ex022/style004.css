@@ -1,0 +1,8 @@
+body {
+  height: 98vh;
+  background-image: url('https://img.abcfc.com.br/themes/v02/assets/img/build/logo-abcfc.fa2e7c2a.svg');
+  border: 1px dashed #000;
+  background-size: 100px;
+  background-repeat: no-repeat;
+  background-position: top right;
+}
