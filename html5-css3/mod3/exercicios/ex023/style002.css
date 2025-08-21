@@ -18,3 +18,7 @@ tfoot {
   background-color: grey;
   color: white;
 }
+
+td.num {
+  text-align: right;
+}
