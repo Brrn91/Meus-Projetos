@@ -20,3 +20,11 @@ th, td {
 .destaque {
   background-color: chartreuse;
 }
+
+col.cnome {
+  background-color: chartreuse;
+}
+
+col.cgrupo {
+  background-color: red;
+}
